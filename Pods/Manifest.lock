@@ -1,0 +1,15 @@
+PODS:
+  - MBProgressHUD (0.9.2)
+  - ProjectOxfordFace (1.0)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 0.9.2)
+  - ProjectOxfordFace
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  ProjectOxfordFace: 6ee1f7b0a39b5d1cba20cf100d8f9d11ad264790
+
+PODFILE CHECKSUM: f27b9f3d5d77ad207598b53c86fc3dab7caa45c9
+
+COCOAPODS: 1.0.1
